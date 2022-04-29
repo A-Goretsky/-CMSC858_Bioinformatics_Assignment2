@@ -1,0 +1,11 @@
+query_len,time,preftab,k,search_type
+10,6146.19,1,4,naive
+30,6328.92,1,4,naive
+50,5694.61,1,4,naive
+70,6273.75,1,4,naive
+90,6330.9,1,4,naive
+10,16318.9,1,4,simpaccel
+30,25867,1,4,simpaccel
+50,25097.7,1,4,simpaccel
+70,23639.4,1,4,simpaccel
+90,19402,1,4,simpaccel
